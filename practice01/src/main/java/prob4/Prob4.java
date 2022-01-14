@@ -9,7 +9,13 @@ public class Prob4 {
 
 		System.out.print("문자열을 입력하세요 : ");
 		String text = scanner.nextLine();
-
+		
+		for(int j=0; j<text.length(); j++) {
+			for(int i=0; i<=j; i++) {
+				System.out.print(text.charAt(i));
+			}
+			System.out.println();
+		}
 		
 		scanner.close();
 	}
