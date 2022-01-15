@@ -21,10 +21,7 @@ public class Prob03 {
 
 
 	private static void printCharArray(char[] c) {
-		for(char s : c) {
-			System.out.print(s);
-		}
-		System.out.println();
+		System.out.println(c);
 	}
 	private static void replaceSpace(char[] c) {
 		
