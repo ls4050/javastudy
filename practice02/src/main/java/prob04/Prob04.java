@@ -1,6 +1,5 @@
 package prob04;
 
-import java.util.Collections;
 
 public class Prob04 {
 

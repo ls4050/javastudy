@@ -1,6 +1,5 @@
 package prob03;
 
-import java.util.Arrays;
 
 public class Prob03 {
 	public static void main(String args[]) {

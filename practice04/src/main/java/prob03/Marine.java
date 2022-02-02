@@ -2,8 +2,6 @@ package prob03;
 
 public class Marine extends Unit{
 	
-	private int x=0;
-	private int y=0;
 	Marine() {
 		x=super.x;
 		y=super.y;
